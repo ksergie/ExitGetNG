@@ -1,0 +1,90 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ExitGet" verbose="1" >
+    <test name="Test on [Chrome]">
+        <parameter name="selenium.browser" value="chrome" />
+        <classes>
+            <class name="com.ksergie.MainPageTests">
+                    <methods>
+                        <include name="testChatClient"/>
+                        <include name="testBlogButtonAndLink"/>
+                        <include name="testMainMenuItems"/>
+                        <include name="testFooterMenuItems1"/>
+                        <include name="testFooterMenuItems2"/>
+                        <include name="testSignUpButtons"/>
+                        <include name="testExitGetLogo"/>
+                        <include name="testLoginButton"/>
+                        <include name="testBlogLinks"/>
+                        <include name="testScreenshotMsg"/>
+                        <include name="testPreviewPopupButtons"/>
+                    </methods>
+            </class>
+            <class name="com.ksergie.LoginPageTests">
+                <methods>
+                    <include name="testLoginWithCorrectData"/>
+                    <include name="testNeedHelpLink"/>
+                    <include name="testForgotPasswordLink"/>
+                    <include name="testCreateNewOneLink"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Test on [Firefox]">
+        <parameter name="selenium.browser" value="firefox" />
+        <classes>
+            <class name="com.ksergie.MainPageTests">
+                <methods>
+                    <include name="testChatClient"/>
+                    <include name="testBlogButtonAndLink"/>
+                    <include name="testMainMenuItems"/>
+                    <include name="testFooterMenuItems1"/>
+                    <include name="testFooterMenuItems2"/>
+                    <include name="testSignUpButtons"/>
+                    <include name="testExitGetLogo"/>
+                    <include name="testLoginButton"/>
+                    <include name="testBlogLinks"/>
+                    <include name="testScreenshotMsg"/>
+                    <include name="testPreviewPopupButtons"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.LoginPageTests">
+                <methods>
+                    <include name="testLoginWithCorrectData"/>
+                    <include name="testNeedHelpLink"/>
+                    <include name="testForgotPasswordLink"/>
+                    <include name="testCreateNewOneLink"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    
+    <test name="Test on [Edge]">
+        <parameter name="selenium.browser" value="edge" />
+        <classes>
+            <class name="com.ksergie.MainPageTests">
+                <methods>
+                    <include name="testChatClient"/>
+                    <include name="testBlogButtonAndLink"/>
+                    <include name="testMainMenuItems"/>
+                    <include name="testFooterMenuItems1"/>
+                    <include name="testFooterMenuItems2"/>
+                    <include name="testSignUpButtons"/>
+                    <include name="testExitGetLogo"/>
+                    <include name="testLoginButton"/>
+                    <include name="testBlogLinks"/>
+                    <include name="testScreenshotMsg"/>
+                    <include name="testPreviewPopupButtons"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.LoginPageTests">
+                <methods>
+                    <include name="testLoginWithCorrectData"/>
+                    <include name="testNeedHelpLink"/>
+                    <include name="testForgotPasswordLink"/>
+                    <include name="testCreateNewOneLink"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
