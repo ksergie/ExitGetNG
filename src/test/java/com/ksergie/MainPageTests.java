@@ -72,4 +72,10 @@ public class MainPageTests extends BaseTest{
         mainPage = new MainPage(eventDriver);
         mainPage.clickHeaderLoginButton();
     }
+
+    @Test(testName = "testD3CenterLink")
+    void testD3CenterLink(){
+        mainPage = new MainPage(eventDriver);
+        mainPage.checkD3CenterLink();
+    }
 }

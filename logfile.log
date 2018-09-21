@@ -3743,3 +3743,1116 @@ INFO  | 2018-09-20 16:28:18 | [main] ksergie.EventHandler (EventHandler.java:94)
 INFO  | 2018-09-20 16:28:19 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[@href='//exitget.com/pricing']
 INFO  | 2018-09-20 16:28:19 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (84466E9A-1E79-4F0B-8FB3-8924D05E41E6)] -> xpath: //a[@href='//exitget.com/pricing']]
 INFO  | 2018-09-20 16:28:19 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (84466E9A-1E79-4F0B-8FB3-8924D05E41E6)] -> xpath: //a[@href='//exitget.com/pricing']]
+INFO  | 2018-09-21 12:07:36 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:07:42 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:07:42 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:07:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:07:42 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8B667980-D26B-44D0-B68A-7EA0EF5B9B5F)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:07:42 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8B667980-D26B-44D0-B68A-7EA0EF5B9B5F)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:13:18 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:13:23 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:13:23 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:13:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:13:24 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (F7A025C2-A4E5-478E-AC00-DF2F3F9DCA80)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:13:24 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (F7A025C2-A4E5-478E-AC00-DF2F3F9DCA80)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:13:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 12:13:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 12:13:25 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (F7A025C2-A4E5-478E-AC00-DF2F3F9DCA80)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 12:13:25 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (F7A025C2-A4E5-478E-AC00-DF2F3F9DCA80)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 12:14:50 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:14:54 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:14:54 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:14:55 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:14:55 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (3690D753-672F-4239-A0C8-FD9207A2F1DA)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:14:55 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (3690D753-672F-4239-A0C8-FD9207A2F1DA)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:17:25 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:17:30 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:17:30 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:17:30 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:17:30 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (2DE78203-CF7A-4F65-AFF4-E3C861A82184)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:17:31 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (2DE78203-CF7A-4F65-AFF4-E3C861A82184)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:17:31 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 12:17:32 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 12:17:32 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (2DE78203-CF7A-4F65-AFF4-E3C861A82184)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 12:17:32 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (2DE78203-CF7A-4F65-AFF4-E3C861A82184)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 12:17:33 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/login
+INFO  | 2018-09-21 12:17:36 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:17:58 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:18:03 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:18:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 12:18:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 12:18:04 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 12:18:04 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 12:18:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:07 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:07 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:08 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:08 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:08 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:08 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:09 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:18:09 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/how_to_create_a_campaign
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='VIEW ALL']
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='VIEW ALL']
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[text()='VIEW ALL']]
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[text()='VIEW ALL']]
+INFO  | 2018-09-21 12:18:12 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:15 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:16 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:16 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:18:16 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:18:16 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 12:18:19 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:19 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Easy Black Friday Solution: The 15 minute promotion
+INFO  | 2018-09-21 12:18:21 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+How to stop losing one third of your advertising revenue
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Install Exitget Popups on your Wordpress Website
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Install Exitget Popups on your Shopify Website
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+A look into our journey: October, 2017
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+A look into our journey: January, 2017
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Pivot abandoning visitors into sign ups and purchases.
+INFO  | 2018-09-21 12:18:22 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:18:25 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:18:26 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:18:28 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:28 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:18:33 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:18:33 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:18:38 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:38 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:18:43 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:18:44 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:18:46 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:46 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:18:51 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:18:51 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:18:54 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:18:54 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:18:57 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:18:58 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:19:00 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:19:00 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:19:04 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:19:04 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:19:06 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:19:06 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:19:10 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:19:10 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:19:13 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:19:13 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:16 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:16 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:19:18 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientMinimize
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientMinimize
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientNewMessages
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientNewMessages
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 0
+INFO  | 2018-09-21 12:19:21 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClient]
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientText
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientText
+INFO  | 2018-09-21 12:19:24 | [main] ksergie.EventHandler (EventHandler.java:81) - Inside the beforeChangeValueOf method
+INFO  | 2018-09-21 12:19:25 | [main] ksergie.EventHandler (EventHandler.java:19) - inside method afterChangeValueOf on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClientText]
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientContent
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientContent
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Hello, this is Andrew from Exitget, do you have any questions I can help you with today?
+Automated
+Andrew (Support)
+Hello Andrew! That is a test message to verify the working of the Chat Client. Sincerely your, Automation test
+Just now 
+Guest (You) 
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientClose
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientClose
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClientClose]
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: chatClientClose]
+INFO  | 2018-09-21 12:19:26 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:28 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:28 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerInfo']/div/a
+INFO  | 2018-09-21 12:19:28 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerInfo']/div/a
+INFO  | 2018-09-21 12:19:29 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //div[@id='footerInfo']/div/a]
+INFO  | 2018-09-21 12:19:29 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //div[@id='footerInfo']/div/a]
+INFO  | 2018-09-21 12:19:29 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.MainPage (MainPage.java:296) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.MainPage (MainPage.java:297) - Click the big logo 
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: logotext
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: logotext
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: logotext]
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: logotext]
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.MainPage (MainPage.java:299) - Click the small logo 
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 12:19:31 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 12:19:32 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:34 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:34 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:19:34 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:19:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:19:35 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:19:35 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/login
+INFO  | 2018-09-21 12:19:37 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/login
+INFO  | 2018-09-21 12:19:37 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:39 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:39 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:19:41 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:19:41 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:44 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:44 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 12:19:47 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 12:19:47 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:49 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:49 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 12:19:52 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 12:19:52 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:19:54 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:19:54 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://twitter.com/exitgetcom
+INFO  | 2018-09-21 12:19:58 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://twitter.com/exitgetcom
+INFO  | 2018-09-21 12:19:58 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:20:04 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:20:04 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://facebook.com/exitgetcom
+INFO  | 2018-09-21 12:20:20 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://facebook.com/exitgetcom
+INFO  | 2018-09-21 12:20:20 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:20:24 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:20:24 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:20:27 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 12:20:30 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 12:20:30 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 12:20:32 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:20:32 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 12:20:35 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 12:20:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:20:35 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:20:35 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:20:35 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 12:20:38 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:20:38 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 12:20:40 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 12:20:41 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 12:20:43 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:20:43 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 12:20:46 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 12:20:46 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 12:20:49 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:20:49 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/contact
+INFO  | 2018-09-21 12:20:51 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/contact
+INFO  | 2018-09-21 12:20:51 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/contact
+INFO  | 2018-09-21 12:20:53 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:20:53 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.MainPage (MainPage.java:211) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 12:20:56 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 12:20:57 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:20:59 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 12:21:01 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 12:21:02 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 12:21:04 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:21:04 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 12:21:08 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 12:21:08 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:21:08 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:21:08 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:21:08 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 12:21:11 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:21:11 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 12:21:13 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 12:21:13 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 12:21:16 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:21:16 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 12:21:18 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 12:21:18 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 12:21:20 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:21:20 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:21:22 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:21:22 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewPromo
+INFO  | 2018-09-21 12:21:22 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewPromo
+INFO  | 2018-09-21 12:21:22 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewPromo]
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewPromo]
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_close
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_close
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: exitget_close]
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: exitget_close]
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:23 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewLeads
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewLeads
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewLeads]
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewLeads]
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:24 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at actions
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: EventFiringWebDriver
+INFO  | 2018-09-21 12:21:25 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:25 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewExit
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewExit
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewExit]
+INFO  | 2018-09-21 12:21:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: previewExit]
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_close
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_close
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: exitget_close]
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> id: exitget_close]
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:29 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:30 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:30 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:30 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:35 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:21:40 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:21:41 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='0']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='0']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='0']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='0']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='1']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='1']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='1']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='1']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='2']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='2']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='2']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='2']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='3']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='3']
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='3']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: //a[contains(@class,'button toggle_down') and @item='3']]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:21:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:21:46 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:21:46 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.MainPage (MainPage.java:274) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (A9AE3E8D-D486-45A5-B6BF-67B840ABBF08)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 12:21:48 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at Element is obscured (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {InPrivate: false, acceptSslCerts: true, applicationCacheEnabled: true, browserName: MicrosoftEdge, browserVersion: 42.17134.1.0, javascriptEnabled: true, locationContextEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true, webStorageEnabled: true}
+Session ID: A9AE3E8D-D486-45A5-B6BF-67B840ABBF08
+INFO  | 2018-09-21 12:25:48 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:25:54 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:25:54 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 12:25:54 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 12:25:54 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 12:25:55 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 12:25:55 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:57 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:57 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:57 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:58 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:58 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:59 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:59 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:59 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:25:59 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:26:00 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:26:00 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:26:00 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:26:00 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:26:00 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Easy Black Friday Solution: The 15 minute promotion
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+How to stop losing one third of your advertising revenue
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Install Exitget Popups on your Wordpress Website
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Install Exitget Popups on your Shopify Website
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+A look into our journey: October, 2017
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+A look into our journey: January, 2017
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 
+Pivot abandoning visitors into sign ups and purchases.
+INFO  | 2018-09-21 12:26:03 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:26:07 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:26:07 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 12:26:10 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:10 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:26:16 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:26:16 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 12:26:20 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:20 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:26:25 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:26:25 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 12:26:29 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:29 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:26:33 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:26:34 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 12:26:37 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:37 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:26:39 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:26:40 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 12:26:42 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:42 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:26:45 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:26:45 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 12:26:48 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:48 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:26:51 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:26:51 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/2/at/pivot_abandoning_visitors_into_sign_ups_and_purchases_
+INFO  | 2018-09-21 12:26:53 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:26:53 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:26:56 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:26:56 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:26:58 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientMinimize
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientMinimize
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientNewMessages
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientNewMessages
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 0
+INFO  | 2018-09-21 12:27:01 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClient]
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientText
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientText
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:81) - Inside the beforeChangeValueOf method
+INFO  | 2018-09-21 12:27:04 | [main] ksergie.EventHandler (EventHandler.java:19) - inside method afterChangeValueOf on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClientText]
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientContent
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientContent
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Hello, this is Andrew from Exitget, do you have any questions I can help you with today?
+Automated
+Andrew (Support)
+Hello Andrew! That is a test message to verify the working of the Chat Client. Sincerely your, Automation test
+Just now 
+Guest (You) 
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientClose
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientClose
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClientClose]
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: chatClientClose]
+INFO  | 2018-09-21 12:27:06 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:08 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:08 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerInfo']/div/a
+INFO  | 2018-09-21 12:27:08 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerInfo']/div/a
+INFO  | 2018-09-21 12:27:08 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //div[@id='footerInfo']/div/a]
+INFO  | 2018-09-21 12:27:09 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //div[@id='footerInfo']/div/a]
+INFO  | 2018-09-21 12:27:10 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.MainPage (MainPage.java:298) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.MainPage (MainPage.java:299) - Click the big logo 
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: logotext
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: logotext
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: logotext]
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: logotext]
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.MainPage (MainPage.java:301) - Click the small logo 
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 12:27:13 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 12:27:14 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 12:27:14 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 12:27:17 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/login
+INFO  | 2018-09-21 12:27:19 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/login
+INFO  | 2018-09-21 12:27:19 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:22 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:22 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:27:24 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:27:24 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:26 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:26 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 12:27:29 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 12:27:29 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:32 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:32 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 12:27:34 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 12:27:34 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:36 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:36 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://twitter.com/exitgetcom
+INFO  | 2018-09-21 12:27:39 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://twitter.com/exitgetcom
+INFO  | 2018-09-21 12:27:39 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:27:42 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:27:42 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://facebook.com/exitgetcom
+INFO  | 2018-09-21 12:27:57 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://facebook.com/exitgetcom
+INFO  | 2018-09-21 12:27:57 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:28:01 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:28:01 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 12:28:04 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 12:28:07 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 12:28:07 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 12:28:09 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:09 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 12:28:19 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 12:28:19 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:28:19 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:28:19 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:28:19 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 12:28:21 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:21 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 12:28:24 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 12:28:24 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 12:28:26 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:26 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 12:28:29 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 12:28:29 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 12:28:31 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:31 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/contact
+INFO  | 2018-09-21 12:28:33 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/contact
+INFO  | 2018-09-21 12:28:33 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/contact
+INFO  | 2018-09-21 12:28:35 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:35 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.MainPage (MainPage.java:212) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 12:28:37 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 12:28:38 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 12:28:41 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 12:28:43 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 12:28:43 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 12:28:46 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:46 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 12:28:49 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 12:28:49 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:28:49 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 12:28:50 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 12:28:50 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 12:28:52 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:52 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 12:28:54 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 12:28:54 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 12:28:57 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:28:57 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 12:28:59 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 12:28:59 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 12:29:01 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:29:01 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewPromo
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewPromo
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewPromo]
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewPromo]
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_close
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_close
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: exitget_close]
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: exitget_close]
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:04 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewLeads
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewLeads
+INFO  | 2018-09-21 12:29:05 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewLeads]
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewLeads]
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at actions
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: EventFiringWebDriver
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:06 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: previewExit
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: previewExit
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewExit]
+INFO  | 2018-09-21 12:29:07 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: previewExit]
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_close
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_close
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: exitget_close]
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> id: exitget_close]
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:10 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:11 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:11 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:11 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:16 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:16 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: exitget_controls
+INFO  | 2018-09-21 12:29:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: exitget_controls
+INFO  | 2018-09-21 12:29:23 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='0']
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='0']
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='0']]
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='0']]
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:29:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[1]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='1']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='1']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='1']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='1']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[2]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='2']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='2']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='2']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='2']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[3]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='3']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[contains(@class,'button toggle_down') and @item='3']
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='3']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (8820D395-E37D-4F5C-BDE6-FE12D46452C2)] -> xpath: //a[contains(@class,'button toggle_down') and @item='3']]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='screenshotImages']//img[4]
+INFO  | 2018-09-21 12:29:26 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.MainPage (MainPage.java:275) - We are opening the https://exitget.com
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:34 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 12:29:34 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.MainPage (MainPage.java:278) - Click the Get Started 1 button
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:36 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:37 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 12:29:42 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.MainPage (MainPage.java:281) - Click the Get Started 2 button
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:44 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:50 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 12:29:50 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 12:29:52 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 12:29:52 | [main] ksergie.MainPage (MainPage.java:283) - Click the Get Started 3 button
+INFO  | 2018-09-21 13:12:58 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:13:03 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:13:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:03 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:04 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:13:05 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:13:05 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:13:05 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:13:06 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/login
+INFO  | 2018-09-21 13:13:06 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/login
+INFO  | 2018-09-21 13:13:06 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:09 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:13:10 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:13:10 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:13:11 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:13:17 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:13:19 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:13:19 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:19 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:13:19 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:19 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:13:20 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='Terms of Service']
+INFO  | 2018-09-21 13:13:21 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='Terms of Service']
+INFO  | 2018-09-21 13:13:21 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //a[text()='Terms of Service']]
+INFO  | 2018-09-21 13:13:22 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (E033F747-F1AE-4208-9190-48272737906C)] -> xpath: //a[text()='Terms of Service']]
+INFO  | 2018-09-21 13:20:19 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:20:26 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:20:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:26 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:20:26 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:20:27 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:20:28 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:20:28 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:20:28 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:20:28 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/login
+INFO  | 2018-09-21 13:20:31 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:20:31 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:20:33 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:20:33 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:33 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:33 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:20:33 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at Element is obscured (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {InPrivate: false, acceptSslCerts: true, applicationCacheEnabled: true, browserName: MicrosoftEdge, browserVersion: 42.17134.1.0, javascriptEnabled: true, locationContextEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true, webStorageEnabled: true}
+Session ID: DAADD10E-FB60-44F2-B44E-394306C26A9E
+INFO  | 2018-09-21 13:20:34 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:20:36 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:20:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:36 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:20:36 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (DAADD10E-FB60-44F2-B44E-394306C26A9E)] -> xpath: (//a[text()='GET STARTED'])[1]]
+INFO  | 2018-09-21 13:20:36 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at Element is obscured (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {InPrivate: false, acceptSslCerts: true, applicationCacheEnabled: true, browserName: MicrosoftEdge, browserVersion: 42.17134.1.0, javascriptEnabled: true, locationContextEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true, webStorageEnabled: true}
+Session ID: DAADD10E-FB60-44F2-B44E-394306C26A9E
+INFO  | 2018-09-21 13:22:25 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:22:30 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:22:30 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:30 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:30 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:22:30 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:22:31 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:22:32 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:22:32 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:22:32 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:22:33 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/login
+INFO  | 2018-09-21 13:22:33 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/login
+INFO  | 2018-09-21 13:22:33 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:22:35 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:22:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:35 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:36 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:22:36 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:22:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:22:37 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:22:37 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:22:38 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:22:39 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:22:39 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:22:39 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:22:42 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:22:42 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:22:43 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='Terms of Service']
+INFO  | 2018-09-21 13:22:44 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='Terms of Service']
+INFO  | 2018-09-21 13:22:44 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //a[text()='Terms of Service']]
+INFO  | 2018-09-21 13:22:45 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (0C330B21-4DB0-4954-A29E-D70DE9380A31)] -> xpath: //a[text()='Terms of Service']]
+INFO  | 2018-09-21 13:24:39 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:24:45 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:24:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:24:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:24:45 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:24:45 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:24:46 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:24:47 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='haveAnAccount']/a
+INFO  | 2018-09-21 13:24:47 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (42A1799B-6FD2-4CDC-9B92-5FD314B27041)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:24:47 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (42A1799B-6FD2-4CDC-9B92-5FD314B27041)] -> xpath: //div[@class='haveAnAccount']/a]
+INFO  | 2018-09-21 13:24:47 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/login
+INFO  | 2018-09-21 13:24:51 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:24:51 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:24:53 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:24:53 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:24:53 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:24:53 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:24:53 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:24:54 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:24:55 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //label/a[text()='Privacy Policy']
+INFO  | 2018-09-21 13:24:55 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[EdgeDriver: MicrosoftEdge on WINDOWS (42A1799B-6FD2-4CDC-9B92-5FD314B27041)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:24:56 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[EdgeDriver: MicrosoftEdge on WINDOWS (42A1799B-6FD2-4CDC-9B92-5FD314B27041)] -> xpath: //label/a[text()='Privacy Policy']]
+INFO  | 2018-09-21 13:24:57 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:24:57 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at No such window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {InPrivate: false, acceptSslCerts: true, applicationCacheEnabled: true, browserName: MicrosoftEdge, browserVersion: 42.17134.1.0, javascriptEnabled: true, locationContextEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true, webStorageEnabled: true}
+Session ID: 42A1799B-6FD2-4CDC-9B92-5FD314B27041
+INFO  | 2018-09-21 13:29:18 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:29:26 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:29:26 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:29:30 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:29:30 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 13:29:30 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 13:29:30 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:31 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:31 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:31 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:31 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 13:29:31 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:35 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientMinimize
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientMinimize
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClientMinimize]
+INFO  | 2018-09-21 13:29:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientNewMessages
+INFO  | 2018-09-21 13:29:37 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientNewMessages
+INFO  | 2018-09-21 13:29:37 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: 0
+INFO  | 2018-09-21 13:29:37 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:29:40 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:29:40 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClient
+INFO  | 2018-09-21 13:29:41 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClient
+INFO  | 2018-09-21 13:29:41 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:41 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClient]
+INFO  | 2018-09-21 13:29:41 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='chatClientHeader']/div
+INFO  | 2018-09-21 13:29:42 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Online Support
+INFO  | 2018-09-21 13:29:42 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientText
+INFO  | 2018-09-21 13:29:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientText
+INFO  | 2018-09-21 13:29:42 | [main] ksergie.EventHandler (EventHandler.java:81) - Inside the beforeChangeValueOf method
+INFO  | 2018-09-21 13:29:45 | [main] ksergie.EventHandler (EventHandler.java:19) - inside method afterChangeValueOf on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClientText]
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientContent
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientContent
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Hello, this is Andrew from Exitget, do you have any questions I can help you with today?
+Automated
+Andrew (Support)
+Hello Andrew! That is a test message to verify the working of the Chat Client. Sincerely your, Automation test
+Just now
+Guest (You)
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: chatClientClose
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: chatClientClose
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClientClose]
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: chatClientClose]
+INFO  | 2018-09-21 13:29:46 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:29:51 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:29:51 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 13:29:51 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='Continue Reading']
+INFO  | 2018-09-21 13:29:51 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 13:30:38 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //a[text()='Continue Reading']]
+INFO  | 2018-09-21 13:30:38 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:30:38 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:30:38 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 13:30:38 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/how_to_create_a_campaign
+INFO  | 2018-09-21 13:30:43 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:30:43 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[text()='VIEW ALL']
+INFO  | 2018-09-21 13:30:43 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //a[text()='VIEW ALL']
+INFO  | 2018-09-21 13:30:43 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //a[text()='VIEW ALL']]
+INFO  | 2018-09-21 13:31:02 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //a[text()='VIEW ALL']]
+INFO  | 2018-09-21 13:31:02 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:31:02 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:31:03 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 13:31:04 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 13:31:14 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:31:14 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:31:22 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:31:22 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 13:31:22 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 13:31:23 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 13:31:23 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='menuLinks']/a[@class='menuLink']
+INFO  | 2018-09-21 13:31:24 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 13:31:28 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 13:31:29 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 13:31:36 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:31:36 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 13:31:46 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 13:31:46 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:31:46 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:31:46 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 13:31:46 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 13:31:54 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:31:54 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 13:31:58 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 13:31:59 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 13:32:08 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:32:08 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 13:32:11 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 13:32:11 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 13:32:17 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:32:17 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:32:25 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:32:25 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 13:32:25 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 13:32:26 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 13:32:26 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks1']/a
+INFO  | 2018-09-21 13:32:27 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/login
+INFO  | 2018-09-21 13:32:29 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/login
+INFO  | 2018-09-21 13:32:30 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:32:33 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:32:33 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:32:36 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:32:36 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:32:39 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:32:39 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 13:32:43 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/termsofservice
+INFO  | 2018-09-21 13:32:43 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:32:47 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:32:47 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 13:32:50 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/index/privacypolicy
+INFO  | 2018-09-21 13:32:50 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:32:54 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:32:54 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://twitter.com/exitgetcom
+INFO  | 2018-09-21 13:33:03 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://twitter.com/exitgetcom
+INFO  | 2018-09-21 13:33:03 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:33:09 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:33:09 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://facebook.com/exitgetcom
+INFO  | 2018-09-21 13:33:32 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://facebook.com/exitgetcom
+INFO  | 2018-09-21 13:33:32 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:33:40 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:33:40 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:33:44 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:33:44 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 13:33:44 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 13:33:45 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 13:33:45 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='footerLinks2']/a
+INFO  | 2018-09-21 13:33:45 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/about
+INFO  | 2018-09-21 13:33:48 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/about
+INFO  | 2018-09-21 13:33:49 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/about
+INFO  | 2018-09-21 13:33:54 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:33:54 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog
+INFO  | 2018-09-21 13:34:00 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog
+INFO  | 2018-09-21 13:34:00 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:34:00 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='blogMenuRecent']/h3
+INFO  | 2018-09-21 13:34:00 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Exitget Blog
+INFO  | 2018-09-21 13:34:00 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/9/at/what_does_google_think_about_popups
+INFO  | 2018-09-21 13:34:04 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:34:04 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/pricing
+INFO  | 2018-09-21 13:34:06 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/pricing
+INFO  | 2018-09-21 13:34:06 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/pricing
+INFO  | 2018-09-21 13:34:13 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:34:13 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/help
+INFO  | 2018-09-21 13:34:16 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/help
+INFO  | 2018-09-21 13:34:18 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/help
+INFO  | 2018-09-21 13:34:24 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:34:24 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/contact
+INFO  | 2018-09-21 13:34:26 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/contact
+INFO  | 2018-09-21 13:34:26 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/contact
+INFO  | 2018-09-21 13:34:30 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:34:30 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:34:34 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:34:34 | [main] ksergie.MainPage (MainPage.java:275) - We are opening the https://exitget.com
+INFO  | 2018-09-21 13:34:34 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:34:34 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:34:34 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:34:36 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:34:36 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:34:42 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[1]
+INFO  | 2018-09-21 13:34:42 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:34:47 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:34:47 | [main] ksergie.MainPage (MainPage.java:278) - Click the Get Started 1 button
+INFO  | 2018-09-21 13:34:47 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 13:34:47 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 13:34:47 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:34:50 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:34:50 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 13:34:55 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='GET STARTED'])[2]
+INFO  | 2018-09-21 13:34:55 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:35:03 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:35:03 | [main] ksergie.MainPage (MainPage.java:281) - Click the Get Started 2 button
+INFO  | 2018-09-21 13:35:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 13:35:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 13:35:03 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:35:05 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:35:05 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 13:35:10 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//a[text()='SIGN UP'])[2]
+INFO  | 2018-09-21 13:35:10 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/signup/plan/none
+INFO  | 2018-09-21 13:35:16 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:35:16 | [main] ksergie.MainPage (MainPage.java:283) - Click the Get Started 3 button
+INFO  | 2018-09-21 13:35:16 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:35:22 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:35:22 | [main] ksergie.MainPage (MainPage.java:298) - We are opening the https://exitget.com
+INFO  | 2018-09-21 13:35:22 | [main] ksergie.MainPage (MainPage.java:299) - Click the big logo 
+INFO  | 2018-09-21 13:35:22 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.id: logotext
+INFO  | 2018-09-21 13:35:23 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.id: logotext
+INFO  | 2018-09-21 13:35:23 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: logotext]
+INFO  | 2018-09-21 13:35:29 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> id: logotext]
+INFO  | 2018-09-21 13:35:29 | [main] ksergie.MainPage (MainPage.java:301) - Click the small logo 
+INFO  | 2018-09-21 13:35:29 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 13:35:30 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='logotext']
+INFO  | 2018-09-21 13:35:30 | [main] ksergie.EventHandler (EventHandler.java:87) - About to click on the [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 13:35:38 | [main] ksergie.EventHandler (EventHandler.java:25) - inside method afterClickOn on [[ChromeDriver: chrome on XP (4394fba0ae37c0a6eaea2ca59e9dee38)] -> xpath: //div[@class='logotext']]
+INFO  | 2018-09-21 13:35:38 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:35:48 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:35:48 | [main] ksergie.MainPage (MainPage.java:212) - We are opening the https://exitget.com
+INFO  | 2018-09-21 13:35:48 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 13:35:49 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: (//div[@id='screenMenu']/a)[1]
+INFO  | 2018-09-21 13:35:49 | [main] ksergie.EventHandler (EventHandler.java:138) - Just before beforeScript arguments[0].click();
+INFO  | 2018-09-21 13:35:53 | [main] ksergie.EventHandler (EventHandler.java:65) - Inside the afterScript to, Script is arguments[0].click();
+INFO  | 2018-09-21 13:35:53 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:36:01 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:36:01 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 13:36:01 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 13:36:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 13:36:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@id='linkList']/a[@class='link']
+INFO  | 2018-09-21 13:36:03 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 13:36:03 | [main] ksergie.EventHandler (EventHandler.java:31) - Element found - By.xpath: //div[@class='linkContent']
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Easy Black Friday Solution: The 15 minute promotion
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: How to stop losing one third of your advertising revenue
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Install Exitget Popups on your Wordpress Website
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Install Exitget Popups on your Shopify Website
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: A look into our journey: October, 2017
+INFO  | 2018-09-21 13:36:04 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: A look into our journey: January, 2017
+INFO  | 2018-09-21 13:36:05 | [main] ksergie.EventHandler (EventHandler.java:165) - We have got this text: Pivot abandoning visitors into sign ups and purchases.
+INFO  | 2018-09-21 13:36:05 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 13:36:16 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 13:36:17 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/8/at/easy_black_friday_solution_the_minute_promotion
+INFO  | 2018-09-21 13:36:25 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:36:25 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 13:36:38 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 13:36:38 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/7/at/how_to_stop_losing_one_third_of_your_advertising_revenue
+INFO  | 2018-09-21 13:36:44 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:36:44 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 13:36:53 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 13:36:53 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/6/at/install_exitget_popups_on_your_wordpress_website
+INFO  | 2018-09-21 13:36:59 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:36:59 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 13:37:10 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 13:37:10 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/5/at/install_exitget_popups_on_your_shopify_website
+INFO  | 2018-09-21 13:37:14 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:37:14 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 13:37:20 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 13:37:20 | [main] ksergie.EventHandler (EventHandler.java:100) - Just before beforeNavigateBack https://exitget.com/blog/index/blog_id/4/at/a_look_into_our_journey_october_
+INFO  | 2018-09-21 13:37:25 | [main] ksergie.EventHandler (EventHandler.java:37) - Inside the after navigateback to https://exitget.com/
+INFO  | 2018-09-21 13:37:25 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com/blog/index/blog_id/3/at/a_look_into_our_journey_january_
+INFO  | 2018-09-21 13:38:25 | [main] ksergie.EventHandler (EventHandler.java:144) - Exception occured at timeout
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-EHFTJSV', ip: '192.168.6.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\sk\AppData\Local\T...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63926}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: 4394fba0ae37c0a6eaea2ca59e9dee38
+INFO  | 2018-09-21 13:38:25 | [main] ksergie.EventHandler (EventHandler.java:132) - Just before beforeNavigateTo https://exitget.com
+INFO  | 2018-09-21 13:38:46 | [main] ksergie.EventHandler (EventHandler.java:59) - Inside the afterNavigateTo to https://exitget.com
+INFO  | 2018-09-21 13:38:46 | [main] ksergie.EventHandler (EventHandler.java:94) - Just before finding elementBy.xpath: //a[contains(@class,'button toggle_down') and @item='0']

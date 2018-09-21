@@ -1,0 +1,67 @@
+package com.ksergie;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+
+public class SignUpPage1 {
+    private EventFiringWebDriver driver;
+    private static final Logger log = LogManager.getLogger(SignUpPage1.class.getName());
+
+    public SignUpPage1(EventFiringWebDriver driver) {
+        this.driver = driver;
+    }
+
+    private By buttonGetStarted1 = By.xpath("(//a[text()='GET STARTED'])[1]");
+    private By linkLogin = By.xpath("//div[@class='haveAnAccount']/a");
+    private By linkTermOfService = By.xpath("//a[text()='Terms of Service']");
+    private By linkPrivacyPolicy = By.xpath("//label/a[text()='Privacy Policy']");
+
+    private void clickSignUpButton(){
+        JavascriptExecutor executor = (JavascriptExecutor)driver;
+        MainPage mainPage = new MainPage(driver);
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        driver.get(mainPage.url);
+        executor.executeScript("arguments[0].click();", driver.findElement(buttonGetStarted1));
+        wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
+        Assert.assertEquals("Signup for Exitget", driver.getTitle(), "We are not on the SignUp page");
+    }
+
+    public void clickLoginLink(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        clickSignUpButton();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(linkLogin)).click();
+        wait.until(ExpectedConditions.titleIs("Login - Exitget"));
+        Assert.assertEquals("Login - Exitget", driver.getTitle(), "We are not on the Login page");
+        driver.navigate().back();
+    }
+
+    public void clickTermOfServiceLink(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        clickSignUpButton();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(linkTermOfService)).click();
+        switchWindows();
+        wait.until(ExpectedConditions.titleIs("Terms of Service - Exitget"));
+        Assert.assertEquals("Terms of Service - Exitget", driver.getTitle(), "We are not on the Terms of Service page");
+    }
+
+    public void clickPrivacyPolicyLink(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        clickSignUpButton();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(linkPrivacyPolicy)).click();
+        switchWindows();
+        wait.until(ExpectedConditions.titleIs("Privacy Policy - Exitget"));
+        Assert.assertEquals("Privacy Policy - Exitget", driver.getTitle(), "We are not on the Privacy Policy page");
+    }
+
+    private void switchWindows(){
+        for(String windowHandle: driver.getWindowHandles()){
+            driver.switchTo().window(windowHandle);
+        }
+    }
+}

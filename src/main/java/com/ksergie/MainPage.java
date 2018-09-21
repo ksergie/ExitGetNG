@@ -52,11 +52,20 @@ public class MainPage {
     private By buttonExitIntent = By.id("previewExit");
     private By linkBlogsLinks = By.xpath("//div[@id='linkList']/a[@class='link']");
     private By linkContent = By.xpath("//div[@class='linkContent']");
+    private By linkD3Center = By.xpath("//div[@id='footerInfo']/div/a");
 
-    private static String url = "https://exitget.com";
+    protected static String url = "https://exitget.com";
 
     // List of Href's
     List<String> hrefs = new ArrayList<>();
+
+    public void checkD3CenterLink(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        driver.get(url);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(linkD3Center)).click();
+        wait.until(ExpectedConditions.titleIs("District 3 Innovation Center – Be at the Center of Innovation"));
+        Assert.assertEquals("District 3 Innovation Center – Be at the Center of Innovation", driver.getTitle(), "We are not on the D3Center page");
+    }
 
     public void checkBlogLink(){
         List<String> content = new ArrayList<>();
@@ -214,7 +223,7 @@ public class MainPage {
     }
 
     private void goToBlog(By xpath){
-        WebDriverWait wait = new WebDriverWait(driver, 5);
+        WebDriverWait wait = new WebDriverWait(driver, 8);
         wait.until(ExpectedConditions.elementToBeClickable(xpath)).click();
         String titleExitBlog = wait.until(ExpectedConditions.visibilityOfElementLocated(titleExitgetBlog)).getText();
         Assert.assertEquals("Exitget Blog", titleExitBlog, "We are not on the ExitGet Blog page");
@@ -276,8 +285,9 @@ public class MainPage {
     }
 
     private void clickSignUpButton(By xpath){
+        JavascriptExecutor executor = (JavascriptExecutor)driver;
         WebDriverWait wait = new WebDriverWait(driver, 5);
-        wait.until(ExpectedConditions.visibilityOfElementLocated(xpath)).click();
+        executor.executeScript("arguments[0].click();", driver.findElement(xpath));
         wait.until(ExpectedConditions.invisibilityOfElementLocated(xpath));
         Assert.assertEquals("Signup for Exitget", driver.getTitle(), "We are not on SignUp page");
         driver.navigate().back();
