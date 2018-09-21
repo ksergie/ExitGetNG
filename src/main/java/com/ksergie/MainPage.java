@@ -223,8 +223,9 @@ public class MainPage {
     }
 
     private void goToBlog(By xpath){
-        WebDriverWait wait = new WebDriverWait(driver, 8);
-        wait.until(ExpectedConditions.elementToBeClickable(xpath)).click();
+        JavascriptExecutor executor = (JavascriptExecutor)driver;
+        WebDriverWait wait = new WebDriverWait(driver, 10);
+        executor.executeScript("arguments[0].click();", driver.findElement(xpath));
         String titleExitBlog = wait.until(ExpectedConditions.visibilityOfElementLocated(titleExitgetBlog)).getText();
         Assert.assertEquals("Exitget Blog", titleExitBlog, "We are not on the ExitGet Blog page");
         driver.navigate().back();
@@ -303,8 +304,8 @@ public class MainPage {
     }
 
     private void clickLogo(By xpath){
-        WebDriverWait wait = new WebDriverWait(driver, 5);
-        wait.until(ExpectedConditions.elementToBeClickable(xpath)).click();
+        JavascriptExecutor executor = (JavascriptExecutor)driver;
+        executor.executeScript("arguments[0].click();", driver.findElement(xpath));
         Assert.assertEquals("Exitget. A Popup Platform for Everyone", driver.getTitle(), "Main Page. Test ExitGet Logo is failure");
     }
 

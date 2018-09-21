@@ -6,7 +6,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                     <methods>
-                        <include name="testChatClient"/>
+                        <exclude name="testChatClient"/>
                         <include name="testBlogButtonAndLink"/>
                         <include name="testMainMenuItems"/>
                         <include name="testFooterMenuItems1"/>
@@ -43,7 +43,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                 <methods>
-                    <include name="testChatClient"/>
+                    <exclude name="testChatClient"/>
                     <include name="testBlogButtonAndLink"/>
                     <include name="testMainMenuItems"/>
                     <include name="testFooterMenuItems1"/>
@@ -80,7 +80,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                 <methods>
-                    <include name="testChatClient"/>
+                    <exclude name="testChatClient"/>
                     <include name="testBlogButtonAndLink"/>
                     <include name="testMainMenuItems"/>
                     <include name="testFooterMenuItems1"/>
