@@ -28,11 +28,12 @@
                     <include name="testCreateNewOneLink"/>
                 </methods>
             </class>
-            <class name="com.ksergie.SignUpPage1">
+            <class name="com.ksergie.SignUpPage">
                 <methods>
                     <include name="testLoginLink"/>
                     <include name="testTermOfServiceLink"/>
                     <include name="testPrivacyPolicyLink"/>
+                    <include name="testUserRegistration"/>
                 </methods>
             </class>
         </classes>
@@ -65,11 +66,12 @@
                     <include name="testCreateNewOneLink"/>
                 </methods>
             </class>
-            <class name="com.ksergie.SignUpPage1">
+            <class name="com.ksergie.SignUpPage">
                 <methods>
                     <include name="testLoginLink"/>
                     <include name="testTermOfServiceLink"/>
                     <include name="testPrivacyPolicyLink"/>
+                    <include name="testUserRegistration"/>
                 </methods>
             </class>
         </classes>
@@ -102,11 +104,12 @@
                     <include name="testCreateNewOneLink"/>
                 </methods>
             </class>
-            <class name="com.ksergie.SignUpPage1">
+            <class name="com.ksergie.SignUpPage">
                 <methods>
                     <include name="testLoginLink"/>
                     <include name="testTermOfServiceLink"/>
                     <include name="testPrivacyPolicyLink"/>
+                    <include name="testUserRegistration"/>
                 </methods>
             </class>
         </classes>
