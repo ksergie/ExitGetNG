@@ -6,7 +6,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                     <methods>
-                        <exclude name="testChatClient"/>
+                        <include name="testChatClient"/>
                         <include name="testBlogButtonAndLink"/>
                         <include name="testMainMenuItems"/>
                         <include name="testFooterMenuItems1"/>
@@ -36,6 +36,12 @@
                     <include name="testUserRegistration"/>
                 </methods>
             </class>
+            <class name="com.ksergie.PricingPage">
+                <methods>
+                    <include name="testMonthlyButton"/>
+                    <include name="testYearlyButton"/>
+                </methods>
+            </class>
         </classes>
     </test>
 
@@ -44,7 +50,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                 <methods>
-                    <exclude name="testChatClient"/>
+                    <include name="testChatClient"/>
                     <include name="testBlogButtonAndLink"/>
                     <include name="testMainMenuItems"/>
                     <include name="testFooterMenuItems1"/>
@@ -72,6 +78,12 @@
                     <include name="testTermOfServiceLink"/>
                     <include name="testPrivacyPolicyLink"/>
                     <include name="testUserRegistration"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.PricingPage">
+                <methods>
+                    <include name="testMonthlyButton"/>
+                    <include name="testYearlyButton"/>
                 </methods>
             </class>
         </classes>
@@ -82,7 +94,7 @@
         <classes>
             <class name="com.ksergie.MainPageTests">
                 <methods>
-                    <exclude name="testChatClient"/>
+                    <include name="testChatClient"/>
                     <include name="testBlogButtonAndLink"/>
                     <include name="testMainMenuItems"/>
                     <include name="testFooterMenuItems1"/>
@@ -110,6 +122,12 @@
                     <include name="testTermOfServiceLink"/>
                     <include name="testPrivacyPolicyLink"/>
                     <include name="testUserRegistration"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.PricingPage">
+                <methods>
+                    <include name="testMonthlyButton"/>
+                    <include name="testYearlyButton"/>
                 </methods>
             </class>
         </classes>

@@ -53,6 +53,7 @@ public class MainPage {
     private By linkBlogsLinks = By.xpath("//div[@id='linkList']/a[@class='link']");
     private By linkContent = By.xpath("//div[@class='linkContent']");
     private By linkD3Center = By.xpath("//div[@id='footerInfo']/div/a");
+    private By linkPricingPage = By.xpath("//div[@id='menuLinks']/a[4]");
 
     protected static String url = "https://exitget.com";
 
@@ -307,6 +308,13 @@ public class MainPage {
         JavascriptExecutor executor = (JavascriptExecutor)driver;
         executor.executeScript("arguments[0].click();", driver.findElement(xpath));
         Assert.assertEquals("Exitget. A Popup Platform for Everyone", driver.getTitle(), "Main Page. Test ExitGet Logo is failure");
+    }
+
+    protected void clickPricingPageLink(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(linkPricingPage)).click();
+        wait.until(ExpectedConditions.titleIs("Pricing - Exitget"));
+        Assert.assertEquals("Pricing - Exitget", driver.getTitle(), "We are not on Pricing page");
     }
 
     private void goAroundMenu(By xpathLinks, String[] titles){
