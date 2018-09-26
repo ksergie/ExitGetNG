@@ -22,6 +22,7 @@ public class PricingPage {
     private By priceBusinessPlan = By.xpath("(//div[@class='damount'])[2]");
     private By priceEnterprisePlan = By.xpath("(//div[@class='damount'])[3]");
     private By linkMailTo = By.xpath("//a[text()='support@exitget.com']");
+    private By buttonEnterprisePlan = By.xpath("(//a[text()='SELECT PLAN'])[3]");
 
 
     private void openPricingPage(){
@@ -77,5 +78,12 @@ public class PricingPage {
     protected void mailLink(){
         openPricingPage();
         Assert.assertEquals("mailto:support@exitget.com", driver.findElement(linkMailTo).getAttribute("href"), "Link mailto:support@exitget.com incorrect");
+    }
+
+    protected void selectYearlyEnterprisePlan(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(buttonEnterprisePlan)).click();
+        wait.until(ExpectedConditions.titleIs("Setup your Exitget Account"));
+        Assert.assertEquals("Setup your Exitget Account", driver.getTitle(), "We are not on the Setup your Exitget Account page");
     }
 }

@@ -136,6 +136,11 @@
                     <include name="testYearlySelectPlanButton"/>
                 </methods>
             </class>
+            <class name="com.ksergie.SelectAccountPage">
+                <methods>
+                    <include name="testBrandAccount"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
