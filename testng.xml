@@ -40,6 +40,8 @@
                 <methods>
                     <include name="testMonthlyButton"/>
                     <include name="testYearlyButton"/>
+                    <include name="testMonthlySelectPlanButton"/>
+                    <include name="testYearlySelectPlanButton"/>
                 </methods>
             </class>
         </classes>
@@ -84,6 +86,8 @@
                 <methods>
                     <include name="testMonthlyButton"/>
                     <include name="testYearlyButton"/>
+                    <include name="testMonthlySelectPlanButton"/>
+                    <include name="testYearlySelectPlanButton"/>
                 </methods>
             </class>
         </classes>
@@ -128,6 +132,8 @@
                 <methods>
                     <include name="testMonthlyButton"/>
                     <include name="testYearlyButton"/>
+                    <include name="testMonthlySelectPlanButton"/>
+                    <include name="testYearlySelectPlanButton"/>
                 </methods>
             </class>
         </classes>

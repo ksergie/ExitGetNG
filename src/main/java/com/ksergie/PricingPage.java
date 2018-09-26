@@ -21,6 +21,8 @@ public class PricingPage {
     private By priceProPlan = By.xpath("(//div[@class='damount'])[1]");
     private By priceBusinessPlan = By.xpath("(//div[@class='damount'])[2]");
     private By priceEnterprisePlan = By.xpath("(//div[@class='damount'])[3]");
+    private By linkMailTo = By.xpath("//a[text()='support@exitget.com']");
+
 
     private void openPricingPage(){
         MainPage mainPage = new MainPage(driver);
@@ -54,4 +56,26 @@ public class PricingPage {
         wait.until(ExpectedConditions.textToBe(priceProPlan, "123"));
     }
 
+    protected void clickMonthlySelectPlanButton(String number, String urlPart){
+        clickMonthlyButton();
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        String xpath = "(//a[text()='SELECT PLAN'])[" + number +"]";
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath))).click();
+        wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
+        Assert.assertTrue(driver.getCurrentUrl().contains(urlPart));
+    }
+
+    protected void clickYearlySelectPlanButton(String number, String urlPart){
+        clickYearlyButton();
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        String xpath = "(//a[text()='SELECT PLAN'])[" + number +"]";
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath))).click();
+        wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
+        Assert.assertTrue(driver.getCurrentUrl().contains(urlPart));
+    }
+
+    protected void mailLink(){
+        openPricingPage();
+        Assert.assertEquals("mailto:support@exitget.com", driver.findElement(linkMailTo).getAttribute("href"), "Link mailto:support@exitget.com incorrect");
+    }
 }

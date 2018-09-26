@@ -311,8 +311,9 @@ public class MainPage {
     }
 
     protected void clickPricingPageLink(){
+        JavascriptExecutor executor = (JavascriptExecutor)driver;
         WebDriverWait wait = new WebDriverWait(driver, 5);
-        wait.until(ExpectedConditions.visibilityOfElementLocated(linkPricingPage)).click();
+        executor.executeScript("arguments[0].click();", driver.findElement(linkPricingPage));
         wait.until(ExpectedConditions.titleIs("Pricing - Exitget"));
         Assert.assertEquals("Pricing - Exitget", driver.getTitle(), "We are not on Pricing page");
     }

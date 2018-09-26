@@ -15,4 +15,22 @@ public class PricingPageTests extends BaseTest {
         pricingPage = new PricingPage(eventDriver);
         pricingPage.clickYearlyButton();
     }
+
+    @Test(testName = "testMonthlySelectPlanButton", dataProvider = "monthlyPlan", dataProviderClass = TestData.class)
+    void testMonthlySelectPlanButton(String number, String urlPart){
+        pricingPage = new PricingPage(eventDriver);
+        pricingPage.clickMonthlySelectPlanButton(number, urlPart);
+    }
+
+    @Test(testName = "testYearlySelectPlanButton", dataProvider = "yearlyPlan", dataProviderClass = TestData.class)
+    void testYearlySelectPlanButton(String number, String urlPart){
+        pricingPage = new PricingPage(eventDriver);
+        pricingPage.clickYearlySelectPlanButton(number, urlPart);
+    }
+
+    @Test(testName = "testMailToLink")
+    void testMailToLink(){
+        pricingPage = new PricingPage(eventDriver);
+        pricingPage.mailLink();
+    }
 }

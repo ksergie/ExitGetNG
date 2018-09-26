@@ -52,4 +52,24 @@ public class TestData {
             {"exitgetest@gmail.com", "Ckfdfnhele_1"}
         };
     }
+
+    // Data for PricingPage.testMonthlySelectPlanButton() test
+    @DataProvider(name = "monthlyPlan")
+    public static Object[][] monthlyPlan() {
+        return new Object[][] {
+                {"1", "pro/monthly"},
+                {"2", "business/monthly"},
+                {"3", "enterprise/monthly"}
+        };
+    }
+
+    // Data for PricingPage.testYearlySelectPlanButton() test
+    @DataProvider(name = "yearlyPlan")
+    public static Object[][] yearlyPlan() {
+        return new Object[][] {
+                {"1", "pro/yearly"},
+                {"2", "business/yearly"},
+                {"3", "enterprise/yearly"}
+        };
+    }
 }
