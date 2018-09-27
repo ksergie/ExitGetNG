@@ -138,7 +138,7 @@
             </class>
             <class name="com.ksergie.SelectAccountPage">
                 <methods>
-                    <include name="testBrandAccount"/>
+                    <include name="testSelectAccount"/>
                 </methods>
             </class>
         </classes>

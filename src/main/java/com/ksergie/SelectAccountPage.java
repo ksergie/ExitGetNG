@@ -2,7 +2,12 @@ package com.ksergie;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 public class SelectAccountPage {
     private EventFiringWebDriver driver;
@@ -12,6 +17,12 @@ public class SelectAccountPage {
         this.driver = driver;
     }
 
+    private By dropboxSelectAccountType = By.id("accountType");
+    private String name = "Ksergie";
+    private String webSite = "https://ksergie.com";
+    private String jobPosition = "Manager";
+
+
     private void openSelectAccountPage(){
         SignUpPage signUpPage = new SignUpPage(driver);
         signUpPage.inputNameAndEmail();
@@ -19,7 +30,102 @@ public class SelectAccountPage {
         pricingPage.selectYearlyEnterprisePlan();
     }
 
-    protected void selectBrandAccount(){
+    protected void selectAccount(){
         openSelectAccountPage();
+        Select accountType = new Select(driver.findElement(dropboxSelectAccountType));
+        selectBrandAccount(accountType);
+        selectSmallBusinessAccount(accountType);
+        selectMarketerAccount(accountType);
+        selectBloggerAccount(accountType);
+        selectStreamerAccount(accountType);
+        selectAgencyAccount(accountType);
+        selectOtherAccount(accountType);
+    }
+
+    private void selectBrandAccount(Select aType){
+        By fieldName = By.name("brand_name");
+        By fieldWebSite = By.name("brand_website");
+        By fieldJobPosition = By.name("brand_job");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Brand");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        driver.findElement(fieldJobPosition).sendKeys(jobPosition);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Brand Account");
+    }
+
+    private void selectSmallBusinessAccount(Select aType){
+        By fieldName = By.name("business_name");
+        By fieldWebSite = By.name("business_website");
+        By fieldJobPosition = By.name("business_job");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Small Business");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        driver.findElement(fieldJobPosition).sendKeys(jobPosition);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Small Business Account");
+    }
+
+    private void selectMarketerAccount(Select aType){
+        By fieldName = By.name("marketer_name");
+        By fieldWebSite = By.name("marketer_website");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Marketer");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Marketer Account");
+    }
+
+    private void selectBloggerAccount(Select aType){
+        By fieldName = By.name("blog_name");
+        By fieldWebSite = By.name("blog_website");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Blogger");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Blogger Account");
+    }
+
+    private void selectStreamerAccount(Select aType){
+        By fieldName = By.name("streamer_name");
+        By fieldWebSite = By.name("streamer_website");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Streamer");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Streamer Account");
+    }
+
+    private void selectAgencyAccount(Select aType){
+        By fieldName = By.name("agency_name");
+        By fieldWebSite = By.name("agency_website");
+        By fieldJobPosition = By.name("agency_job");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Agency");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        driver.findElement(fieldJobPosition).sendKeys(jobPosition);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Agency Account");
+    }
+
+    private void selectOtherAccount(Select aType){
+        By fieldName = By.name("other_name");
+        By fieldWebSite = By.name("other_website");
+        By fieldWebSiteDesc = By.name("other_description");
+        By fieldJobPosition = By.name("other_job");
+        By buttonContinue = By.id("sendInput");
+
+        aType.selectByVisibleText("Other");
+        driver.findElement(fieldName).sendKeys(name);
+        driver.findElement(fieldWebSite).sendKeys(webSite);
+        driver.findElement(fieldWebSiteDesc).sendKeys("This is our site ");
+        driver.findElement(fieldJobPosition).sendKeys(jobPosition);
+        Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Other Account");
     }
 }
