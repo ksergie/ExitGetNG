@@ -5,20 +5,20 @@
         <parameter name="selenium.browser" value="chrome" />
         <classes>
             <class name="com.ksergie.MainPageTests">
-                    <methods>
-                        <include name="testChatClient"/>
-                        <include name="testBlogButtonAndLink"/>
-                        <include name="testMainMenuItems"/>
-                        <include name="testFooterMenuItems1"/>
-                        <include name="testFooterMenuItems2"/>
-                        <include name="testSignUpButtons"/>
-                        <include name="testExitGetLogo"/>
-                        <include name="testLoginButton"/>
-                        <include name="testBlogLinks"/>
-                        <include name="testScreenshotMsg"/>
-                        <include name="testPreviewPopupButtons"/>
-                        <include name="testD3CenterLink"/>
-                    </methods>
+                <methods>
+                    <include name="testChatClient"/>
+                    <include name="testBlogButtonAndLink"/>
+                    <include name="testMainMenuItems"/>
+                    <include name="testFooterMenuItems1"/>
+                    <include name="testFooterMenuItems2"/>
+                    <include name="testSignUpButtons"/>
+                    <include name="testExitGetLogo"/>
+                    <include name="testLoginButton"/>
+                    <include name="testBlogLinks"/>
+                    <include name="testScreenshotMsg"/>
+                    <include name="testPreviewPopupButtons"/>
+                    <include name="testD3CenterLink"/>
+                </methods>
             </class>
             <class name="com.ksergie.LoginPageTests">
                 <methods>
@@ -42,6 +42,11 @@
                     <include name="testYearlyButton"/>
                     <include name="testMonthlySelectPlanButton"/>
                     <include name="testYearlySelectPlanButton"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.SelectAccountPage">
+                <methods>
+                    <include name="testSelectAccount"/>
                 </methods>
             </class>
         </classes>
@@ -88,6 +93,11 @@
                     <include name="testYearlyButton"/>
                     <include name="testMonthlySelectPlanButton"/>
                     <include name="testYearlySelectPlanButton"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.SelectAccountPage">
+                <methods>
+                    <include name="testSelectAccount"/>
                 </methods>
             </class>
         </classes>
