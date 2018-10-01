@@ -2,7 +2,8 @@ package com.ksergie;
 
 import org.testng.annotations.Test;
 
-public class SelectAccountPageTests extends BaseTest {
+public class SelectAccountPageTests extends BaseTest{
+
     private SelectAccountPage selectAccountPage;
 
     @Test(testName = "testSelectAccount")
