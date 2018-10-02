@@ -25,7 +25,7 @@ public class PricingPage {
     private By buttonEnterprisePlan = By.xpath("(//a[text()='SELECT PLAN'])[3]");
 
 
-    private void openPricingPage(){
+    protected void openPricingPage(){
         MainPage mainPage = new MainPage(driver);
         driver.get(mainPage.url);
         mainPage.clickPricingPageLink();

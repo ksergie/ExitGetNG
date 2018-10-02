@@ -9,6 +9,8 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+import static jdk.nashorn.internal.objects.NativeString.trim;
+
 public class SelectAccountPage {
     private EventFiringWebDriver driver;
     private static final Logger log = LogManager.getLogger(SelectAccountPage.class.getName());
@@ -23,7 +25,7 @@ public class SelectAccountPage {
     private String jobPosition = "Manager";
 
 
-    private void openSelectAccountPage(){
+    protected void openSelectAccountPage(){
         SignUpPage signUpPage = new SignUpPage(driver);
         signUpPage.inputNameAndEmail();
         PricingPage pricingPage = new PricingPage(driver);
@@ -42,7 +44,7 @@ public class SelectAccountPage {
         selectOtherAccount(accountType);
     }
 
-    private void selectBrandAccount(Select aType){
+    protected void selectBrandAccount(Select aType){
         By fieldName = By.name("brand_name");
         By fieldWebSite = By.name("brand_website");
         By fieldJobPosition = By.name("brand_job");
@@ -127,5 +129,17 @@ public class SelectAccountPage {
         driver.findElement(fieldWebSiteDesc).sendKeys("This is our site ");
         driver.findElement(fieldJobPosition).sendKeys(jobPosition);
         Assert.assertTrue(driver.findElement(buttonContinue).isEnabled(), "Error filling the Other Account");
+    }
+
+    protected void selectTestAccount(){
+        By buttonContinue = By.id("sendInput");
+        By fieldSiteName = By.xpath("(//tbody//div[@class='input'])[1]");
+        openSelectAccountPage();
+        Select accountType = new Select(driver.findElement(dropboxSelectAccountType));
+        selectBrandAccount(accountType);
+        driver.findElement(buttonContinue).click();
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.titleIs("Setup your Exitget Account"));
+        Assert.assertEquals(name, trim(driver.findElement(fieldSiteName).getText()), "Wrong Site Name");
     }
 }

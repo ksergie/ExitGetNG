@@ -49,6 +49,12 @@
                     <include name="testSelectAccount"/>
                 </methods>
             </class>
+            <class name="com.ksergie.SubscribePageTests">
+                <methods>
+                    <include name="testChooseSubscription"/>
+                    <include name="testPlanLink"/>
+                </methods>
+            </class>
         </classes>
     </test>
 
@@ -100,6 +106,12 @@
                     <include name="testSelectAccount"/>
                 </methods>
             </class>
+            <class name="com.ksergie.SubscribePageTests">
+                <methods>
+                    <include name="testChooseSubscription"/>
+                    <include name="testPlanLink"/>
+                </methods>
+            </class>
         </classes>
     </test>
     
@@ -149,6 +161,12 @@
             <class name="com.ksergie.SelectAccountPageTests">
                 <methods>
                     <include name="testSelectAccount"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.SubscribePageTests">
+                <methods>
+                    <include name="testChooseSubscription"/>
+                    <include name="testPlanLink"/>
                 </methods>
             </class>
         </classes>

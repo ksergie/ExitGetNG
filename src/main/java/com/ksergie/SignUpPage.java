@@ -35,7 +35,7 @@ public class SignUpPage {
     private void clickSignUpButton(){
         JavascriptExecutor executor = (JavascriptExecutor)driver;
         MainPage mainPage = new MainPage(driver);
-        WebDriverWait wait = new WebDriverWait(driver, 5);
+        WebDriverWait wait = new WebDriverWait(driver, 7);
         driver.get(mainPage.url);
         executor.executeScript("arguments[0].click();", driver.findElement(buttonGetStarted1));
         wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
