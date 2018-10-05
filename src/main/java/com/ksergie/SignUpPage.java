@@ -31,6 +31,7 @@ public class SignUpPage {
     private By checkboxEmailCheck = By.id("emailCheckbox");
     private By buttonContinue = By.id("sendInput");
     private By fieldPassword = By.id("passwordInput");
+    private By fieldUser = By.xpath("//div[@id='header_links']/following-sibling::div");
 
     private void clickSignUpButton(){
         JavascriptExecutor executor = (JavascriptExecutor)driver;
@@ -115,5 +116,6 @@ public class SignUpPage {
         wait.until(ExpectedConditions.visibilityOfElementLocated(buttonContinue)).click();
         wait.until(ExpectedConditions.titleIs("Pricing - Exitget"));
         Assert.assertEquals("Pricing - Exitget", driver.getTitle(), "We are not on Price page");
+        Assert.assertEquals(user, driver.findElement(fieldUser).getText(), "The input username and displayed username are not match");
     }
 }

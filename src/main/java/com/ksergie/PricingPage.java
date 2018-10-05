@@ -23,6 +23,9 @@ public class PricingPage {
     private By priceEnterprisePlan = By.xpath("(//div[@class='damount'])[3]");
     private By linkMailTo = By.xpath("//a[text()='support@exitget.com']");
     private By buttonEnterprisePlan = By.xpath("(//a[text()='SELECT PLAN'])[3]");
+    private By fieldSubscribePrice = By.id("costRating");
+    private By linkShowPlans = By.id("showPlans");
+
 
 
     protected void openPricingPage(){
@@ -60,19 +63,31 @@ public class PricingPage {
     protected void clickMonthlySelectPlanButton(String number, String urlPart){
         clickMonthlyButton();
         WebDriverWait wait = new WebDriverWait(driver, 5);
+
+        //Getting the amount
+        String amountXpath = "//div[@class='boxes box" + number + "']//div[@class='damount']";
+        String amount = driver.findElement(By.xpath(amountXpath)).getText();
+
         String xpath = "(//a[text()='SELECT PLAN'])[" + number +"]";
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath))).click();
         wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
+        Assert.assertEquals(amount, driver.findElement(fieldSubscribePrice).getText(), "The selected price and the displayed price are not match");
         Assert.assertTrue(driver.getCurrentUrl().contains(urlPart));
     }
 
     protected void clickYearlySelectPlanButton(String number, String urlPart){
         clickYearlyButton();
         WebDriverWait wait = new WebDriverWait(driver, 5);
+
+        //Getting the amount
+        String amountXpath = "//div[@class='boxes box" + number + "']//div[@class='damount']";
+        String amount = driver.findElement(By.xpath(amountXpath)).getText();
+
         String xpath = "(//a[text()='SELECT PLAN'])[" + number +"]";
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath))).click();
         wait.until(ExpectedConditions.titleIs("Signup for Exitget"));
         Assert.assertTrue(driver.getCurrentUrl().contains(urlPart));
+        Assert.assertEquals(amount, driver.findElement(fieldSubscribePrice).getText(), "The selected price and the displayed price are not match");
     }
 
     protected void mailLink(){
@@ -85,5 +100,11 @@ public class PricingPage {
         wait.until(ExpectedConditions.visibilityOfElementLocated(buttonEnterprisePlan)).click();
         wait.until(ExpectedConditions.titleIs("Setup your Exitget Account"));
         Assert.assertEquals("Setup your Exitget Account", driver.getTitle(), "We are not on the Setup your Exitget Account page");
+    }
+
+    protected void clickAndCheckMonthlyButton(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(buttonMonthly)).click();
+        wait.until(ExpectedConditions.textToBe(priceProPlan, "123"));
     }
 }

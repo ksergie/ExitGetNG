@@ -16,4 +16,10 @@ public class SubscribePageTests extends BaseTest{
         subscribePage = new SubscribePage(eventDriver);
         subscribePage.clickPlanLink();
     }
+
+    @Test(testName = "testDisplayedPlans")
+    void testDisplayedPlans(){
+        subscribePage = new SubscribePage(eventDriver);
+        subscribePage.checkDisplayedPlans();
+    }
 }
