@@ -21,6 +21,7 @@ public class SubscribePage {
     private By linkPlan = By.xpath("//a[@class='input plan']");
     private By buttonLogOut = By.xpath("//button[@class='logout']");
     private By subscriptionPrice = By.id("costRating");
+    private By subscriptionYearPrice = By.id("paymentAmount");
     private By fieldPlan = By.xpath("//a[@class='input plan']/span");
 
     private void openSubscribePage(){
@@ -64,7 +65,7 @@ public class SubscribePage {
             wait.until(ExpectedConditions.titleIs("Pricing - Exitget"));
 
             // getting the plan and amount
-            getPlanAndAmount(i);
+            getPlanAndAmountYearly(i);
         }
 
         //check monthly plan
@@ -74,14 +75,14 @@ public class SubscribePage {
             pricingPage.clickAndCheckMonthlyButton();
 
             // getting the plan and amount
-            getPlanAndAmount(i);
+            getPlanAndAmountMonthly(i);
         }
 
         clickLogOutButton();
 
     }
 
-    private void getPlanAndAmount(int i){
+    private void getPlanAndAmountMonthly(int i){
         // getting the plan and amount
         String planXpath = "//div[@class='boxes box" + i + "']//span";
         String amountXpath = "//div[@class='boxes box" + i + "']//div[@class='damount']";
@@ -98,6 +99,28 @@ public class SubscribePage {
         // checking
         Assert.assertEquals(plan, driver.findElement(fieldPlan).getText(), "The selected plan and displayed plan are not match");
         Assert.assertEquals(amount, stringWithoutComma(price), "The selected price and displayed price are not match");
+    }
+
+    private void getPlanAndAmountYearly(int i){
+        // getting the plan and amount
+        String planXpath = "//div[@class='boxes box" + i + "']//span";
+        String amountXpath = "//div[@class='boxes box" + i + "']//div[@class='damount']";
+        String buttonXpath = "//div[@class='boxes box" + i + "']//a[text()='SELECT PLAN']";
+
+        String plan = driver.findElement(By.xpath(planXpath)).getText();
+        String amount = driver.findElement(By.xpath(amountXpath)).getText();
+        if(amount.endsWith("+")){
+            amount = amount.substring(0, amount.length() - 1);
+        }
+        driver.findElement(By.xpath(buttonXpath)).click();
+
+        String price = driver.findElement(subscriptionPrice).getText();
+        String yearPrice = driver.findElement(subscriptionYearPrice).getText();
+
+        // checking
+        Assert.assertEquals(plan, driver.findElement(fieldPlan).getText(), "The selected plan and displayed plan are not match");
+        Assert.assertEquals(amount, price, "The selected price and displayed price are not match");
+        Assert.assertEquals(Integer.parseInt(stringWithoutComma(yearPrice)), Integer.parseInt(price) * 12, "The monthly price * 12 does not equal the yearly price");
     }
 
     private String stringWithoutComma(String str){
