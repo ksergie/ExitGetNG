@@ -70,7 +70,7 @@ public class SignUpPage {
         Assert.assertEquals("Privacy Policy - Exitget", driver.getTitle(), "We are not on the Privacy Policy page");
     }
 
-    private void switchWindows(){
+    protected void switchWindows(){
         for(String windowHandle: driver.getWindowHandles()){
             driver.switchTo().window(windowHandle);
         }

@@ -22,4 +22,10 @@ public class SubscribePageTests extends BaseTest{
         subscribePage = new SubscribePage(eventDriver);
         subscribePage.checkDisplayedPlans();
     }
+
+    @Test(testName = "testSubscribeButton")
+    void testSubscribeButton(){
+        subscribePage = new SubscribePage(eventDriver);
+        subscribePage.checkSubscribeButton();
+    }
 }

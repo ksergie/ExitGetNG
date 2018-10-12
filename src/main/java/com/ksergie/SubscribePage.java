@@ -23,6 +23,8 @@ public class SubscribePage {
     private By subscriptionPrice = By.id("costRating");
     private By subscriptionYearPrice = By.id("paymentAmount");
     private By fieldPlan = By.xpath("//a[@class='input plan']/span");
+    private By buttonSubscribe = By.id("addCreditCard");
+    private By titlePayWindow = By.xpath("//h1[@class='Header-companyName u-textTruncate']");
 
     private void openSubscribePage(){
         SelectAccountPage selectAccountPage = new SelectAccountPage(driver);
@@ -133,5 +135,16 @@ public class SubscribePage {
             }
         }
         return result;
+    }
+
+    protected void checkSubscribeButton(){
+        MainPage mainPage = new MainPage(driver);
+        openSubscribePage();
+        WebDriverWait wait = new WebDriverWait(driver, 7);
+        wait.until(ExpectedConditions.elementToBeClickable(buttonSubscribe)).click();
+        mainPage.pause(1000);
+        driver.switchTo().frame(0);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(titlePayWindow));
+        Assert.assertEquals("Exitget", driver.findElement(titlePayWindow).getText(), "We are not on the Stripe Payment page");
     }
 }
