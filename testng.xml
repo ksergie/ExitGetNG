@@ -53,6 +53,21 @@
                 <methods>
                     <include name="testChooseSubscription"/>
                     <include name="testPlanLink"/>
+                    <include name="testDisplayedPlans"/>
+                    <include name="testSubscribeButton"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardPageTests">
+                <methods>
+                    <include name="testOpenDashboardPage"/>
+                    <include name="testAccountButton"/>
+                    <include name="testQuickStartGuide"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardAccountPageTests">
+                <methods>
+                    <include name="testCloseButton"/>
+                    <include name="testResetAccountWithPassword"/>
                 </methods>
             </class>
         </classes>
@@ -110,6 +125,21 @@
                 <methods>
                     <include name="testChooseSubscription"/>
                     <include name="testPlanLink"/>
+                    <include name="testDisplayedPlans"/>
+                    <include name="testSubscribeButton"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardPageTests">
+                <methods>
+                    <include name="testOpenDashboardPage"/>
+                    <include name="testAccountButton"/>
+                    <include name="testQuickStartGuide"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardAccountPageTests">
+                <methods>
+                    <include name="testCloseButton"/>
+                    <include name="testResetAccountWithPassword"/>
                 </methods>
             </class>
         </classes>
@@ -167,6 +197,21 @@
                 <methods>
                     <include name="testChooseSubscription"/>
                     <include name="testPlanLink"/>
+                    <include name="testDisplayedPlans"/>
+                    <include name="testSubscribeButton"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardPageTests">
+                <methods>
+                    <include name="testOpenDashboardPage"/>
+                    <include name="testAccountButton"/>
+                    <include name="testQuickStartGuide"/>
+                </methods>
+            </class>
+            <class name="com.ksergie.DashboardAccountPageTests">
+                <methods>
+                    <include name="testCloseButton"/>
+                    <include name="testResetAccountWithPassword"/>
                 </methods>
             </class>
         </classes>
