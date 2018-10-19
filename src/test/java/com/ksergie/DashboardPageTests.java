@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class DashboardPageTests extends BaseTest{
     private DashboardPage dashboardPage;
 
-    @Ignore
+//    @Ignore
     @Test(testName = "testOpenDashboardPage")
     void testOpenDashboardPage(){
         dashboardPage = new DashboardPage(eventDriver);
@@ -14,7 +14,7 @@ public class DashboardPageTests extends BaseTest{
         dashboardPage.clickLogoutButton();
     }
 
-    @Ignore
+//    @Ignore
     @Test(testName = "testAccountButton")
     void testAccountButton(){
         dashboardPage = new DashboardPage(eventDriver);

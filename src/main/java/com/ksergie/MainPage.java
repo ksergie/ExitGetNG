@@ -113,7 +113,7 @@ public class MainPage {
         moveCoursor(250, 250);
     }
 
-    private void moveCoursor(int x, int y){
+    protected void moveCoursor(int x, int y){
         try {
             Robot robot = new Robot();
             robot.mouseMove(x, y);
