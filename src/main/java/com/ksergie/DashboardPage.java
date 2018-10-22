@@ -43,8 +43,8 @@ public class DashboardPage {
     private By buttonNextRedirectionUrl = By.xpath("//div[@id='inputRedirectionUrl']//input[@type='button']");
     private By titleRedirectionUrl = By.xpath("//div[@id='inputRedirectionUrl']//span[@class='webAddress']");
     private By titleTriggersForm = By.xpath("//div[@id='triggerType']//span[@class='webAddress']");
-    private By itemTimeDelay = By.id("timeDelay");
-    private By itemExitIntent = By.id("exitIntent");
+    private By itemTimeDelay = By.xpath("//span[text()='Time Delay']");
+    private By itemExitIntent = By.xpath("//span[text()='Exit Intent']");
     private By buttonNextTriggersForm = By.xpath("//div[@id='triggerType']//button[text()='Next']");
     private By titleConfirmInstallation = By.xpath("//div[@id='testInstallation']//span[@class='webAddress']");
     private By testSuccessful = By.xpath("(//div[@class='listPadded'])[1]");
@@ -91,7 +91,7 @@ public class DashboardPage {
     }
 
     protected void clickQuickStartGuide(){
-        WebDriverWait wait = new WebDriverWait(driver, 5);
+        WebDriverWait wait = new WebDriverWait(driver, 7);
         DashboardAcoountPage dashboardAcoountPage = new DashboardAcoountPage(driver);
         dashboardAcoountPage.resetAccountWithPassword();
         driver.findElement(itemQuickStartGuide).click();
@@ -102,10 +102,10 @@ public class DashboardPage {
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(fieldInstallUrl)).sendKeys(installUrl);
         driver.findElement(buttonNextInstallUrl).click();
-        Assert.assertTrue(driver.findElement(titleInstallationUrl).getText().contains(installUrl),
-                "The Enter the installation URL form is not closed after clicking Next button");
-        Assert.assertEquals("Development mode", driver.findElement(titleDebugMode).getText(),
+        Assert.assertEquals("Development mode", wait.until(ExpectedConditions.visibilityOfElementLocated(titleDebugMode)).getText(),
                 "The Debug Mode form is not displayed after clicking the Next button");
+        Assert.assertTrue(wait.until(ExpectedConditions.visibilityOfElementLocated(titleInstallationUrl)).getText().contains(installUrl),
+                "The Enter the installation URL form is not closed after clicking Next button");
 
         // Click the Next button on the Development mode form
 
@@ -140,15 +140,15 @@ public class DashboardPage {
 
         // Unselect Time delay trigger, select Exit Intent trigger and click the Next button
 
-        wait.until(ExpectedConditions.elementToBeClickable(itemTimeDelay));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(itemTimeDelay));
         JavascriptExecutor executor = (JavascriptExecutor)driver;
         executor.executeScript("arguments[0].click();", driver.findElement(itemTimeDelay));
         wait.until(ExpectedConditions.elementToBeClickable(itemExitIntent));
         executor.executeScript("arguments[0].click();", driver.findElement(itemExitIntent));
         driver.findElement(buttonNextTriggersForm).click();
-        Assert.assertEquals("1 rules configred", driver.findElement(titleTriggersForm).getText(),
+        Assert.assertEquals("1 rules configred", wait.until(ExpectedConditions.visibilityOfElementLocated(titleTriggersForm)).getText(),
                 "The Confirm installation form is not displayed after clicking the Next button");
-        Assert.assertEquals("Final step: Confirm installation", driver.findElement(titleConfirmInstallation).getText(),
+        Assert.assertEquals("Final step: Confirm installation", wait.until(ExpectedConditions.visibilityOfElementLocated(titleConfirmInstallation)).getText(),
                 "The Confirm Installation form is not displayed after clicking the Next button");
         Assert.assertTrue(driver.findElement(testSuccessful).getText().contains("Good job!"),
                 "Automated installation test failed");
