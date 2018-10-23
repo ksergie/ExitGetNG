@@ -1,6 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="ExitGet" verbose="1" >
+
+    <listeners>
+        <listener class-name="com.ksergie.RetryListener"/>
+    </listeners>
+
     <test name="Test on [Chrome]">
         <parameter name="selenium.browser" value="chrome" />
         <classes>
