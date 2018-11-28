@@ -307,7 +307,7 @@ public class MainPage {
     private void clickLogo(By xpath){
         JavascriptExecutor executor = (JavascriptExecutor)driver;
         executor.executeScript("arguments[0].click();", driver.findElement(xpath));
-        Assert.assertEquals("Exitget. A Popup Platform for Everyone", driver.getTitle(), "Main Page. Test ExitGet Logo is failure");
+        Assert.assertEquals("Exitget. Automated marketing to grow your business.", driver.getTitle(), "Main Page. Test ExitGet Logo is failure");
     }
 
     protected void clickPricingPageLink(){
