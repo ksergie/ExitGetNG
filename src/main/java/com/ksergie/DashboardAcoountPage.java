@@ -45,7 +45,7 @@ public class DashboardAcoountPage {
         driver.findElement(buttonResetAccount).click();
         driver.switchTo().alert().accept();
         wait.until(ExpectedConditions.attributeContains(fieldCurrentPassword, "placeholder", "Enter your current password"));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(stringAccountResult1));
+        wait.until(ExpectedConditions.elementToBeClickable(stringAccountResult1));
         Assert.assertEquals("Reset complete", driver.findElement(stringAccountResult).getText(),
                 "The Reset complete string is not displayed after clicking Reset Account button");
     }

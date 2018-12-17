@@ -48,7 +48,7 @@ public class SelectAccountPage {
         By fieldName = By.name("brand_name");
         By fieldWebSite = By.name("brand_website");
         By fieldJobPosition = By.name("brand_job");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Brand");
         driver.findElement(fieldName).sendKeys(name);
@@ -61,7 +61,7 @@ public class SelectAccountPage {
         By fieldName = By.name("business_name");
         By fieldWebSite = By.name("business_website");
         By fieldJobPosition = By.name("business_job");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Small Business");
         driver.findElement(fieldName).sendKeys(name);
@@ -73,7 +73,7 @@ public class SelectAccountPage {
     private void selectMarketerAccount(Select aType){
         By fieldName = By.name("marketer_name");
         By fieldWebSite = By.name("marketer_website");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Marketer");
         driver.findElement(fieldName).sendKeys(name);
@@ -84,7 +84,7 @@ public class SelectAccountPage {
     private void selectBloggerAccount(Select aType){
         By fieldName = By.name("blog_name");
         By fieldWebSite = By.name("blog_website");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Blogger");
         driver.findElement(fieldName).sendKeys(name);
@@ -95,7 +95,7 @@ public class SelectAccountPage {
     private void selectStreamerAccount(Select aType){
         By fieldName = By.name("streamer_name");
         By fieldWebSite = By.name("streamer_website");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Streamer");
         driver.findElement(fieldName).sendKeys(name);
@@ -107,7 +107,7 @@ public class SelectAccountPage {
         By fieldName = By.name("agency_name");
         By fieldWebSite = By.name("agency_website");
         By fieldJobPosition = By.name("agency_job");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Agency");
         driver.findElement(fieldName).sendKeys(name);
@@ -121,7 +121,7 @@ public class SelectAccountPage {
         By fieldWebSite = By.name("other_website");
         By fieldWebSiteDesc = By.name("other_description");
         By fieldJobPosition = By.name("other_job");
-        By buttonContinue = By.id("sendInput");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
 
         aType.selectByVisibleText("Other");
         driver.findElement(fieldName).sendKeys(name);
@@ -132,8 +132,8 @@ public class SelectAccountPage {
     }
 
     protected void selectTestAccount(){
-        By buttonContinue = By.id("sendInput");
-        By fieldSiteName = By.xpath("(//tbody//div[@class='input'])[1]");
+        By buttonContinue = By.xpath("//input[@class='sendInput']");
+        By fieldSiteName = By.xpath("(//tbody//div[@class='input2'])[1]");
         openSelectAccountPage();
         Select accountType = new Select(driver.findElement(dropboxSelectAccountType));
         selectBrandAccount(accountType);

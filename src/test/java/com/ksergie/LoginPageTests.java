@@ -9,7 +9,10 @@ public class LoginPageTests extends BaseTest{
     @Test(testName = "testLoginWithCorrectData", dataProvider = "correctLogin", dataProviderClass = TestData.class)
     void testLoginWithCorrectData(String mail, String password){
         loginPage = new LoginPage(eventDriver);
+        DashboardPage dashboardPage = new DashboardPage(eventDriver);
         loginPage.loginWithCorrectData(mail, password);
+        dashboardPage.clickLogoutButton();
+
     }
 
     @Test(testName = "testNeedHelpLink")

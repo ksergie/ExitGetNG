@@ -207,9 +207,9 @@ public class MainPage {
 
     public void clickHeaderLoginButton(){
         JavascriptExecutor executor = (JavascriptExecutor)driver;
-        WebDriverWait wait = new WebDriverWait(driver, 5);
+        WebDriverWait wait = new WebDriverWait(driver, 10);
         driver.get(url);
-        wait.until(ExpectedConditions.titleIs("Exitget. A Popup Platform for Everyone"));
+        wait.until(ExpectedConditions.titleIs("Exitget. Automated marketing to grow your business."));
         log.info("We are opening the " + url);
         executor.executeScript("arguments[0].click();", driver.findElement(buttonHeaderLogin));
         wait.until(ExpectedConditions.titleIs("Login - Exitget"));

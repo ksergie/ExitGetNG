@@ -22,6 +22,7 @@ public class LoginPage {
     private By fieldEmail = By.id("userInput");
     private By fieldPassword = By.id("passwordInput");
     private By buttonLogin = By.id("sendInput");
+    private By buttonLogOut = By.id("logoutButton");
     private By header = By.xpath("//div[@id='login_frame']//div[@class='contentlabel font_size_by_height']");
     private static String url = "https://exitget.com";
     private By linkNeedHelp = By.xpath("//a[text()='Need help?']");
@@ -59,7 +60,7 @@ public class LoginPage {
     }
 
     public void checkNeedHelpLink(){
-        WebDriverWait wait = new WebDriverWait(driver, 5);
+        WebDriverWait wait = new WebDriverWait(driver, 10);
         openLoginPage();
         wait.until(ExpectedConditions.elementToBeClickable(linkNeedHelp));
         String attrLink = driver.findElement(linkNeedHelp).getAttribute("href");

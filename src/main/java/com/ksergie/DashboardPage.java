@@ -20,9 +20,9 @@ public class DashboardPage {
     }
 
     private By buttonLoguot = By.id("logoutButton");
-    private By buttonAccount = By.id("accountButton");
-    private By stringAPIKey = By.xpath("(//div[@class='inputlabel'])[1]");
-    private By userName = By.xpath("//div[@id='header_links']");
+    private By buttonAccount = By.xpath("//button[text()='ACCOUNT']");
+    private By stringAPIKey = By.xpath("//div[text()='API Key: ']/b");
+    private By userName = By.xpath("//div[@id='header_links']/a");
     private By fieldAccountName = By.id("accountname");
     private By fieldAccountEmail = By.id("accountemail");
     private By itemQuickStartGuide = By.xpath("//a[@class='dashboard_quickstart sub_item']");
@@ -76,16 +76,16 @@ public class DashboardPage {
     protected void clickLogoutButton(){
         WebDriverWait wait = new WebDriverWait(driver, 5);
         wait.until(ExpectedConditions.visibilityOfElementLocated(buttonLoguot)).click();
-        wait.until(ExpectedConditions.titleIs("Exitget. A Popup Platform for Everyone"));
-        Assert.assertEquals("Exitget. A Popup Platform for Everyone", driver.getTitle(), "We are not on the main page after clicking LogOut button");
+        wait.until(ExpectedConditions.titleIs("Exitget. Automated marketing to grow your business."));
+        Assert.assertEquals("Exitget. Automated marketing to grow your business.", driver.getTitle(), "We are not on the main page after clicking LogOut button");
     }
 
     protected void clickAccountButton(){
-        WebDriverWait wait = new WebDriverWait(driver, 7);
-        wait.until(ExpectedConditions.visibilityOfElementLocated(buttonAccount)).click();
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.elementToBeClickable(buttonAccount)).click();
         wait.until(ExpectedConditions.visibilityOfElementLocated(userName));
         Assert.assertEquals("exitgetest", driver.findElement(userName).getText().trim(), "The user name is not displayed on the top of the Dashboard");
-        Assert.assertEquals("API Key: a12f41728769c1", driver.findElement(stringAPIKey).getText(), "The API Key is wrong");
+        Assert.assertEquals("a12f41728769c1", driver.findElement(stringAPIKey).getText(), "The API Key is wrong");
         Assert.assertEquals("exitgetest", driver.findElement(fieldAccountName).getAttribute("value"), "The Account Name is not displayed into the Name field");
         Assert.assertEquals("exitgetest@gmail.com", driver.findElement(fieldAccountEmail).getAttribute("value"), "The Account Email is not displayed into the Email field");
     }

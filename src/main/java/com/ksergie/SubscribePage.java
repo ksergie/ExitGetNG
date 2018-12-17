@@ -51,10 +51,10 @@ public class SubscribePage {
     }
 
     protected void clickLogOutButton(){
-        WebDriverWait wait = new WebDriverWait(driver, 10);
+        WebDriverWait wait = new WebDriverWait(driver, 20);
         wait.until(ExpectedConditions.elementToBeClickable(buttonLogOut)).click();
-        wait.until(ExpectedConditions.titleIs("Exitget. A Popup Platform for Everyone"));
-        Assert.assertEquals("Exitget. A Popup Platform for Everyone", driver.getTitle(), "We are not on the Main Page");
+        wait.until(ExpectedConditions.titleIs("Exitget. Automated marketing to grow your business."));
+        Assert.assertEquals("Exitget. Automated marketing to grow your business.", driver.getTitle(), "We are not on the Main Page");
     }
 
     protected void checkDisplayedPlans(){
@@ -142,9 +142,10 @@ public class SubscribePage {
         openSubscribePage();
         WebDriverWait wait = new WebDriverWait(driver, 7);
         wait.until(ExpectedConditions.elementToBeClickable(buttonSubscribe)).click();
-        mainPage.pause(1000);
+        mainPage.pause(600);
         driver.switchTo().frame(0);
         wait.until(ExpectedConditions.visibilityOfElementLocated(titlePayWindow));
         Assert.assertEquals("Exitget", driver.findElement(titlePayWindow).getText(), "We are not on the Stripe Payment page");
+        clickLogOutButton();
     }
 }

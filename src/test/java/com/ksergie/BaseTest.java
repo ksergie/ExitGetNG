@@ -5,10 +5,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Optional;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -62,7 +59,7 @@ public class BaseTest {
         eventDriver.register(handler);
     }
 
-    @BeforeClass
+    @BeforeTest
     @Parameters("selenium.browser")
     public void setUp(@Optional("edge") String browser){
         driver = getDriver(browser);
@@ -72,7 +69,7 @@ public class BaseTest {
 //        wait = new WebDriverWait(driver, 5);
     }
 
-    @AfterClass
+    @AfterTest
     public void tearDown(){
         if(driver != null){
             driver.quit();
