@@ -19,7 +19,7 @@ public class BaseTest {
 
     static final String firefox = "firefox";
     static final String chrome = "chrome";
-    static final String edge = "edge";
+//    static final String edge = "edge";
 
 
     private EventFiringWebDriver getDriver(String browser){
@@ -34,6 +34,7 @@ public class BaseTest {
                 registerEventDriver();
                 break;
             case chrome:
+            default:
                 System.setProperty("webdriver.chrome.driver", new File(BaseTest.class.getResource("/chromedriver.exe").getFile()).getPath());
                 ChromeDriver chromeDriver = new ChromeDriver();
                 eventDriver = new EventFiringWebDriver(chromeDriver);
@@ -42,13 +43,13 @@ public class BaseTest {
 //            case "ie":
 //            case "internet explorer":
 //                System.setProperty("webdriver.ie.driver", new File(com.ksergie.BaseTest.class.getResource("/IEDriverServer.exe").getFile()).getPath());
-            case edge:
-            default:
-                System.setProperty("webdriver.edge.driver", new File(BaseTest.class.getResource("/MicrosoftWebDriver.exe").getFile()).getPath());
-                EdgeDriver edgeDriver = new EdgeDriver();
-                eventDriver = new EventFiringWebDriver(edgeDriver);
-                registerEventDriver();
-                break;
+//            case edge:
+//            default:
+//                System.setProperty("webdriver.edge.driver", new File(BaseTest.class.getResource("/MicrosoftWebDriver.exe").getFile()).getPath());
+//                EdgeDriver edgeDriver = new EdgeDriver();
+//                eventDriver = new EventFiringWebDriver(edgeDriver);
+//                registerEventDriver();
+//                break;
 //                return new EdgeDriver();
         }
         return eventDriver;
